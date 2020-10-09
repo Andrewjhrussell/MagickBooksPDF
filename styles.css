@@ -51,12 +51,34 @@
     margin: 20px;
 }
 
-.img-Magick9 {
+.img-ExtraTraffic {
     width: 200px;
+    margin: 10px;
+}
+
+.img-MoneyPic1 {
+ width: 200px;
+ margin: 50px;
+}
+
+.img-MoneyPic2 {
+    width: 210px;
+    height: 180px;
     margin: 50px;
 }
 
-.img-Magick11 {
+.img-MagickEye {
     width: 250px;
+    height: 200px;
+    margin: 50px;
+}
+
+.img-WarriorMarketerMindset {
+    width: 240px;
+    margin: 5px;
+}
+
+.img-WarriorMarketer {
+    width: 200px;
     margin: 50px;
 }
